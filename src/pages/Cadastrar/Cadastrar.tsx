@@ -131,7 +131,7 @@ const Senha = styled.div`
     justify-content: center;
 `;
 
-// Responsividade
+
 const ResponsiveContainer = styled.div`
     @media (max-width: 575px) {
         ${Logo}, ${Title}, ${Dados}, ${Dados2}, ${Esqueceu}, ${BotaoEntrar}, ${Botaocadastrar}, ${Npossui}, ${Nome}, ${Cpf}, ${Email}, ${Senha} {
