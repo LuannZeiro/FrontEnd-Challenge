@@ -68,7 +68,7 @@ const CardSpan = styled.span`
     }
 `;
 
-// Responsividade
+
 const ResponsiveContainer = styled.div`
     @media (max-width: 575px) {
         ${Header} {
