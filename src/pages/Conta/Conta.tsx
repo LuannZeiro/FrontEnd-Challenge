@@ -69,7 +69,6 @@ const GlobalStyle = createGlobalStyle`
   }
 `;
 
-// Styled Components
 const Header = styled.div`
   display: grid;
   justify-content: center;
