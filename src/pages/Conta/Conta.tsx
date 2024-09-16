@@ -1,7 +1,6 @@
 import React from 'react';
 import styled, { createGlobalStyle } from 'styled-components';
 
-// Global Styles
 const GlobalStyle = createGlobalStyle`
   body {
     font-family: Arial, sans-serif;
