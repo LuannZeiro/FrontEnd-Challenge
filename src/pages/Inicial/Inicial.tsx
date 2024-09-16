@@ -3,7 +3,6 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import styled from 'styled-components';
 
-// Styled Components
 const Body = styled.div`
     font-family: Arial, sans-serif;
     margin: 0;
