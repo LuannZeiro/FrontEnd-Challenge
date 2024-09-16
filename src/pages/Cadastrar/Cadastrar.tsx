@@ -1,8 +1,7 @@
-// src/Cadastrar.tsx
+
 import React from 'react';
 import styled from 'styled-components';
 
-// Styled Components
 const Logo = styled.div`
     display: flex;
     align-items: center;
